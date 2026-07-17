@@ -6,7 +6,7 @@
 <br>
 
 <br> 🔗 **데모**
-- GitHub Pages: `https://<본인계정>.github.io/camplium/`  *(배포 후 주소로 교체)*
+- GitHub Pages: https://jhc2265.github.io/camplium/
 
 ---
 
