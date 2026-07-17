@@ -1,0 +1,16 @@
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── 개발/작업 도구 (웹사이트 배포에 불필요) ──
+.claude/
+.agents/
+.pt-images/
+tools/__pycache__/
+
+# ── 정리 표시된 파일·폴더 ([지워도 됨] 프리픽스) ──
+\[지워도 됨\]*
+
+# ── 원본 PNG (사이트는 WebP 사용) ──
+assets/elements/*.png
